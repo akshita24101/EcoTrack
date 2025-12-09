@@ -1,0 +1,24 @@
+[
+  {
+    "site_id": 1,
+    "name": "Raipur Plant",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        81.6296,
+        21.2514
+      ]
+    }
+  },
+  {
+    "site_id": 2,
+    "name": "Bhilai Warehouse",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        81.4318,
+        21.193
+      ]
+    }
+  }
+]

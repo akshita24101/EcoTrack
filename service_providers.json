@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Raipur Recycling Center",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        81.63,
+        21.25
+      ]
+    }
+  },
+  {
+    "name": "Bhilai Solar Services",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        81.43,
+        21.19
+      ]
+    }
+  }
+]

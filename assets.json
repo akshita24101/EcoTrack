@@ -1,0 +1,38 @@
+[
+  {
+    "asset_id": 101,
+    "site_id": 1,
+    "type": "electricity_meter",
+    "name": "Main Meter A"
+  },
+  {
+    "asset_id": 102,
+    "site_id": 1,
+    "type": "machine",
+    "name": "Machine A"
+  },
+  {
+    "asset_id": 103,
+    "site_id": 1,
+    "type": "compressor",
+    "name": "Compressor A"
+  },
+  {
+    "asset_id": 201,
+    "site_id": 2,
+    "type": "electricity_meter",
+    "name": "Warehouse Meter"
+  },
+  {
+    "asset_id": 202,
+    "site_id": 2,
+    "type": "forklift",
+    "name": "EV Forklift"
+  },
+  {
+    "asset_id": 203,
+    "site_id": 2,
+    "type": "solar_panel",
+    "name": "Solar Panel Roof"
+  }
+]
